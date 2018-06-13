@@ -10,12 +10,12 @@ package teste;
  *
  */
  
-public class teste {
+public class novaClasse {
 
 	/**
-	 * Construtor modificado
+	 * Construtor
 	 **/
-	public teste (){
+	public novaClasse (){
 	}
 
 }
