@@ -13,7 +13,7 @@ package teste;
 public class teste {
 
 	/**
-	 * Construtor
+	 * Construtor modificado
 	 **/
 	public teste (){
 	}
